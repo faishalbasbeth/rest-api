@@ -1,0 +1,23 @@
+[
+	{
+		"pizza" : [
+			"splitza",
+			"veggie garden",
+			"meat lovers"
+		]
+	},
+	{
+		"pasta" : [
+			"chicken channeloni",
+			"beef lasagna",
+			"beef spaghetti"
+		]
+	},
+	{
+		"nasi" : [
+			"meatbalssl beef mushrooms rice",
+			"black pepper chicken rice",
+			"oriental chicken rice"
+		]
+	}
+]
